@@ -1,0 +1,65 @@
+﻿[CSPro Production Runner]
+[NumberProcesses]
+4
+[PathReference]
+C:\MutuaKakinyi\DataCollectApp\CSWebDataDownload\
+[Tree]
+[Group]
+[Expand]
+KPHC Production Runner
+[Group]
+[Expand]
+CSWeb Data Download <concurrent>
+[EndGroup]
+[EndGroup]
+C:\MutuaKakinyi\DataCollectApp\CSWebDataDownload\CSWebDataDownload.pff
+[WildcardGroup]
+County
+Mombasa_01
+Kwale_02
+Kilifi_03
+Tana River_04
+Lamu_05
+Taita-Taveta_06
+Garissa_07
+Wajir_08
+Mandera_09
+Marsabit_10
+Isiolo_11
+Meru_12
+Tharaka-Nithi_13
+Embu_14
+Kitui_15
+Machakos_16
+Makueni_17
+Nyandarua_18
+Nyeri_19
+Kirinyaga_20
+Murang'a_21
+Kiambu_22
+Turkana_23
+West Pokot_24
+Samburu_25
+Trans Nzoia_26
+Uasin Gishu_27
+Elgeyo-Marakwet_28
+Nandi_29
+Baringo_30
+Laikipia_31
+Nakuru_32
+Narok_33
+Kajiado_34
+Kericho_35
+Bomet_36
+Kakamega_37
+Vihiga_38
+Bungoma_39
+Busia_40
+Siaya_41
+Kisumu_42
+Homabay_43
+Migori_44
+Kisii_45
+Nyamira_46
+Nairobi City_47
+[EndGroup]

@@ -1,0 +1,20 @@
+﻿[Run Information]
+Version=CSPro 7.3
+AppType=Batch
+
+[Files]
+Application=.\SplitCountyDataFile.bch
+InputData=..\..\2000\2000_XXX.csdb
+OutputData=|type=None
+Listing=.\SplitCountyDataFile.lst
+
+[ExternalFiles]
+CENSUS_COUNTY_FILENAMES_DICT=..\..\Lookup\CensusCountyFileNames.csdb
+
+[Parameters]
+ViewListing=OnError
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=Yes
+ErrmsgOverride=No
+InputOrder=Sequential

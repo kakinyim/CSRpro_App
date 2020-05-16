@@ -1,1 +1,16 @@
-my new file
+﻿[CSPro Application]
+Version=CSPro 7.3
+Label=SPLITCOUNTYDATAFILE
+Name=SPLITCOUNTYDATAFILE
+AppType=Batch
+[External Dictionaries]
+File=..\..\DCF\CensusCountyFileNames.dcf
+[AppCode]
+File=.\SplitCountyDataFile.bch.apc
+[Message]
+File=.\SplitCountyDataFile.bch.mgf
+[Order]
+File=.\SplitCountyDataFile.ord
+[Dictionary Types]
+Dict-Type=..\..\DCF\CensusMainForm.dcf,Input,.\SplitCountyDataFile.ord
+Dict-Type=..\..\DCF\CensusCountyFileNames.dcf,External
